@@ -1,7 +1,15 @@
 ### Olá 👋
 
 
-
+- 🔭 I’m currently workingn como Motorista de APP. 
+- 🌱 I’m currently learning programação full stack
+- 👯 I’m looking to collaborate com para uma sociedade melhor  
+- 🤔 I’m looking for help with  
+- 💬 Ask me about ...
+- 📫 How to reach me: ...           
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  📝 formado em gestão de segurança privada
 <!--
 **AndreSilva08/andresilva08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
