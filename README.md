@@ -1,5 +1,10 @@
 ### Olá, sou André moreira
 
+<div>
+
+<img src="https://image.shutterstock.com/image-illustration/programming-code-abstract-technology-background-600w-1292327320.jpg">
+
+</div>
 
 🌅 <i> sou nordestino apaixonado pelo Ceará, </i> <br> 
 👨‍👩‍👦 <i>casado com Sheilla Brígido e Papai do Samir Bernardo</i> <br> 
@@ -7,13 +12,19 @@
 💻 <i> aluno da Digital College no curso de Desenvolvedor Full Stack </I> <br>
 🎧🎤🎸 <i> apaixonado por música </I> <br>
 
+
+
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresilva08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
  
+ 
+ 
 <div> 
+
+
 
 <a href="https://www.instagram.com/andre_moreira08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:andre_moreira.22@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
