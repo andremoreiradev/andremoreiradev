@@ -10,7 +10,7 @@
 👨‍👩‍👦 <i>casado com Sheilla Brígido e Papai do Samir Bernardo</i> <br> 
 🎓 <i>formado em Gestão de segurança Privada pela Universidade Cruzeiro do Sul </i> <br>
 💻 <i> aluno da Digital College no curso de Desenvolvedor Full Stack </I> <br>'
-🎧🎤🎸 <i> apaixonado por música <i> <p><img src="https://c.tenor.com/6dBVWBne0-AAAAAC/guitar-closed-hand-full-of-friends.gif" height="50" width=" 50"> <p>
+🎧🎤🎸 <i> apaixonado por música <i> <p><img src="https://c.tenor.com/6dBVWBne0-AAAAAC/guitar-closed-hand-full-of-friends.gif" height="80" width=" 60"> <p>
 
 
 
