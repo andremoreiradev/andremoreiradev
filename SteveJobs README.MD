@@ -62,7 +62,7 @@ Jobs permaneceu no cargo até 2009, quando deixou o cargo para Tim Cook, mas ain
 
 ##
 
-  acesse o link acima, e prepare a 🍿🍹
+  acesse o link acima, e prepare a 🍿🍹<p> Obrigado !!!
 
   
    
