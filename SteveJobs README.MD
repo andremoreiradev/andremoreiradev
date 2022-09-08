@@ -33,7 +33,7 @@ Junto com Steve Wozniak, desenvolveu uma versão do jogo Pong para apenas um jog
 Em 1976, deu o passo que o consagrou na história. Foi quando ele fundou a Apple Inc, que comercializava um computador pessoal desenvolvido por Wozniak pouco tempo antes.
 O primeiro lote do Apple I, com apenas 50 unidades, foi vendido para a Byte Shop por US$ 25 mil.
 O capital foi usado para instalar a equipe da Apple em uma garagem.
- Posteriormente, a equipe lançou o bem sucedido Apple II, que se provou um dos grandes sucessos<br> da história dos computadores pessoais.</i>
+ Posteriormente, a equipe lançou o bem sucedido Apple II, que se provou um dos grandes sucessos da história dos computadores pessoais.</i>
   
   
   
@@ -62,7 +62,7 @@ Jobs permaneceu no cargo até 2009, quando deixou o cargo para Tim Cook, mas ain
 
 ##
 
-  acesse o link acima, e prepare  🍿☕
+  acesse o link acima, e prepare a 🍿🍹
 
   
    
