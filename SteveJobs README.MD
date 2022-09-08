@@ -56,7 +56,7 @@ Jobs permaneceu no cargo até 2009, quando deixou o cargo para Tim Cook, mas ain
     
 
 
-<a href="https://www.youtube.com/watch?v=y-wZSrT1H4k" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="[https://](https://www.youtube.com/watch?v=nx2u8iUpzPo&ab_channel=IdentidadeDigital)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
 
