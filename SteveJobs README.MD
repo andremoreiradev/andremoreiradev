@@ -1,12 +1,12 @@
-###  Steve Jobs
+###  Steve Jobs 
 Steven Paul Jobs, Fundador da Apple 
 <img src="https://media0.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=ecf05e47n9dj8c6eewdj6i4qzvkx635tde0gbrcoy156i7dl&rid=giphy.gif&ct=g" height="200" width=" 400" align="center"/> <br>
 
 
 
-#  Nascimento
+#  Nascimento 🌐
   24 de Fevereiro de 1956 em São Francisco, Califórnia <br><hr>
-#   Morte
+#   Morte ✝️
   05 de Outubro de 2011 em Palo Alto, Califórnia<br>
 <hr>
 <p>
@@ -62,7 +62,8 @@ Jobs permaneceu no cargo até 2009, quando deixou o cargo para Tim Cook, mas ain
 
 ##
 
-  acesse o link acima, e prepare a 🍿🍹<p> Obrigado !!!
+  acesse o link acima, e prepare a 🍿🍹<p>Obrigado !!
+
 
   
    
