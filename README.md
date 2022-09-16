@@ -1,7 +1,8 @@
 ### Olá, sou André moreira
 
 <div>
-https://www.youtube.com/watch?v=nx2u8iUpzPo&ab_channel=IdentidadeDigital
+<p>
+
 <img src="https://image.shutterstock.com/image-illustration/programming-code-abstract-technology-background-600w-1292327320.jpg"  height="200" width=" 400" align="center"/> <br>
 
 </div>
