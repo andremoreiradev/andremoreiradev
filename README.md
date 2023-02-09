@@ -14,7 +14,7 @@
 💻 <i> aluno da Digital College no curso de Desenvolvedor Full Stack </I> <br>'
 🎧🎤🎸 <i> apaixonado por música <i> <p><img src="https://c.tenor.com/6dBVWBne0-AAAAAC/guitar-closed-hand-full-of-friends.gif" height="80" width=" 60"> <p>
 
-## Estou aprendendo
+## Skill
  <img alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45"/> <img alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" width="45"/> <img alt="CSS icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>   
    ##
   
