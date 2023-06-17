@@ -1,6 +1,7 @@
 ###  Steve Jobs 
 Steven Paul Jobs, Fundador da Apple 
-<img src="https://media0.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=ecf05e47n9dj8c6eewdj6i4qzvkx635tde0gbrcoy156i7dl&rid=giphy.gif&ct=g" height="200" width=" 400" align="center"/> <br>
+<img src="https://media0.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=ecf05e47n9dj8c6eewdj6i4qzvkx635tde0gbrcoy156i7dl&rid=giphy.gif&ct=g" height="200" width=" 400" 
+ .align="center"/> <br>
 
 
 #  Nascimento 🌐
